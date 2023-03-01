@@ -11,7 +11,7 @@
     },
     "keywords": ["docusign", "purchase", "order", "po", "fail", "failure", "product", "delivery", "date", "late", "delayed", "discount", "price", "amount", "compensation", "credits", "issue"],
     "devDependencies": {
-        "mocha": "5.2.0"
+        "mocha": "10.2.0"
     },
     "scripts": {
         "test": "mocha --timeout 10000"
